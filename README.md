@@ -18,5 +18,5 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://cout05.github.io/testimonials-grid/)
+- Solution URL: [solution URL](https://github.com/cout05/testimonials-grid.git)
+- Live Site URL: [live site URL](https://cout05.github.io/testimonials-grid/)
